@@ -1,5 +1,7 @@
 **Virtual Car Showroom**
 
+_A group project for MERN Full Stack Certitfication Course_
+
 Welcome to our Virtual Car Showroom! This is a platform where you can explore a wide range of virtual vehicles from the comfort of your own home. Whether you're a car enthusiast, in the market for a new ride, or simply curious, we've got something for everyone.
 
 **Features**
